@@ -1,0 +1,164 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DINNextLTPro-Heavy
+FamilyName:DIN Next LT Pro
+StyleName:Heavy
+MenuName:DIN Next LT Pro Medium
+StyleBits:2
+WeightClass:750
+WidthClass:5
+AngleClass:0
+FullName:DIN Next LT Pro Heavy
+WritingScript:Roman
+OutlineFileName:\Linotype - DIN Next LT Pro Heavy.ttf
+DataFormat:sfntData
+FileLength:146660
+FileModTime:1409322116
+NameArray:0,Mac,18,DIN Next LT Pro Heavy
+NameArray:0,Mac,4,DIN Next LT Pro Heavy
+NameArray:0,Win,1,DIN Next LT Pro Medium
+NameArray:0,Win,16,DIN Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DINNextLTPro-UltraLight
+FamilyName:DIN Next LT Pro
+StyleName:Ultra Light
+MenuName:DIN Next LT Pro UltraLight
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:DIN Next LT Pro UltraLight
+WritingScript:Roman
+OutlineFileName:\Linotype - DIN Next LT Pro UltraLight.ttf
+DataFormat:sfntData
+FileLength:188776
+FileModTime:1409322048
+NameArray:0,Mac,18,DIN Next LT Pro UltraLight
+NameArray:0,Mac,4,DIN Next LT Pro UltraLight
+NameArray:0,Win,1,DIN Next LT Pro UltraLight
+NameArray:0,Win,16,DIN Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DINNextLTPro-Bold
+FamilyName:DIN Next LT Pro
+StyleName:Bold
+MenuName:DIN Next LT Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:DIN Next LT Pro Bold
+WritingScript:Roman
+OutlineFileName:\Linotype - DINNextLTPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:77672
+FileModTime:1409322108
+NameArray:0,Mac,4,DIN Next LT Pro Bold
+NameArray:0,Win,1,DIN Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-It
+FamilyName:Minion Pro
+StyleName:Italic
+MenuName:Minion Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:259940
+FileModTime:1407231654
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Ital
+NameArray:0,Mac,4,Minion Pro Italic
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1407231654
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PressStyle
+FamilyName:Press Style
+StyleName:Regular
+MenuName:Press Style
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Press Style
+WritingScript:Roman
+OutlineFileName:\Press Style.ttf
+DataFormat:sfntData
+FileLength:591068
+FileModTime:1408900876
+NameArray:0,Mac,4,Press Style
+NameArray:0,Win,1,Press Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ROADMOVIE
+FamilyName:ROAD MOVIE
+StyleName:Regular
+MenuName:ROAD MOVIE
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:ROAD MOVIE
+WritingScript:Roman
+OutlineFileName:\ROADMOVIE TRIAL___.ttf
+DataFormat:sfntData
+FileLength:310504
+FileModTime:1268029916
+NameArray:0,Mac,18,ROAD MOVIE
+NameArray:0,Mac,4,ROAD MOVIE
+NameArray:0,Win,1,ROAD MOVIE
+%EndFont
+
