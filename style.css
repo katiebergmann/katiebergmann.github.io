@@ -256,4 +256,10 @@ x:-o-prefocus, .lb-overlay img {
 
 
 
-/* blah blah blah blah blaaaaaaaah */
+/* Resume Container */
+
+.resume{
+	padding: 50px;
+	margin: auto;
+	width: 75%;
+}

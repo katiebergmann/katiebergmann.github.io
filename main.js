@@ -30,7 +30,7 @@ var autoSize = function() {
 
 }
 
-var pages = ['portfolio', 'artiststatement'];
+var pages = ['portfolio', 'resume', 'contact', 'artiststatement'];
 var currentPage = '';
 var goToPage = function(page) {
 
