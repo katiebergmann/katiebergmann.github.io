@@ -67,3 +67,7 @@ var lightBoxOpen = function() {
 var lightBoxClose = function() {
 	$('body').removeClass('no-scroll');
 }
+
+
+
+/* social media buttons */
