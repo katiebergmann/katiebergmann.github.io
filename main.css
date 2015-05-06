@@ -107,6 +107,17 @@ body.no-scroll {
   margin: 0 auto;
 }
 
+.sticky #main_container {
+  margin-bottom:96px;
+}
+
+.sticky #nav {
+  position: fixed;
+  top:0;
+  width: 100%;
+  z-index: 1;
+}
+
 .border{
   color: #faf8fb;
   border-right-style: solid;

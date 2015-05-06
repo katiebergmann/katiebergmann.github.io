@@ -48,6 +48,14 @@ var goToPage = function(page) {
 				if (getUrlParameter('page') != currentPage) {
 					window.history.pushState("", "", "?page=" + page);
 				}
+
+				var scrollPos = document.getElementById('main_container').getBoundingClientRect().bottom;
+				
+				$(document.body).animate({
+					'scrollTop': scrollPos,
+					'easing': 'easeInOutQuad'
+				}, 400);
+
 			});
 		}
 	}
@@ -69,5 +77,16 @@ var lightBoxClose = function() {
 }
 
 
+// Scroll stuff
+$(document).scroll(function(event) {
+	
+	var navY = document.getElementById('main_container').getBoundingClientRect().bottom;
 
-/* social media buttons */
+	if (navY <= 0) {
+		$('body').addClass('sticky');
+	}
+	else {
+		$('body').removeClass('sticky');
+	}
+
+});
